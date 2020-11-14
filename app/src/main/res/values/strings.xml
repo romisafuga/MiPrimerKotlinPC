@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MiPrimerKotlinPC</string>
+    <string name="buton_aplica">Aplicar</string>
+    <string name="hint_mail">Email</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_message">Introduzca su mensaje</string>
 </resources>
