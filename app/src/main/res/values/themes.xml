@@ -13,4 +13,12 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.MiPrimerKotlinPC.MyActivityMain" >
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_rafg</item>
+        <item name="colorPrimaryVariant">@color/Yellow_rafg</item>
+        <item name="colorOnPrimary">@color/red_rafg</item>
+        <!-- Customize your theme here. -->
+    </style>
 </resources>

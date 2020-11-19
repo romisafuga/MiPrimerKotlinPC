@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Secundario">
+
+    <com.example.miprimerkotlinpc.AspectRatioImageView
+        android:id="@+id/cover"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        app:ratio="1.5"
+        app:srcCompat="@drawable/gato2" />
+
+
+</LinearLayout>
