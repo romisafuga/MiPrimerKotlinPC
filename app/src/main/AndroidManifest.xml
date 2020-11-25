@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MiPrimerKotlinPC">
-        <activity android:name=".MainActivity"
-                  android:theme="@style/Theme.MiPrimerKotlinPC.MyActivityMain">
+        <activity android:name=".OtraPantalla"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.MiPrimerKotlinPC.MyActivityMain">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
